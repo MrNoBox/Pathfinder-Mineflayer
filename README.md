@@ -7,7 +7,7 @@ This is a pathfinder bot for minecraft  ;)
      'npm install npm'
      'npm install mineflayer'
      'npm install minecraft-data
-     'npm install mineflayer pathfinder'
+     'npm install mineflayer-pathfinder'
 
 
  
